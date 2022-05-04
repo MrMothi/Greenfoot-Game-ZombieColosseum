@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Sniper
+comment0.text=\r\n\ This\ is\ a\ weapon\ class,\ the\ sniper\r\n\ Slow\ Shooting,\ High\ Piercing,\ Fast\ Projectile\r\n\ Mohit\ Sharma\r\n\ January\ 8th\ 2020\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ lookMouse()
+comment3.params=
+comment3.target=void\ changeClip()
+comment4.params=
+comment4.target=int\ getSniperRotation()
+comment5.params=
+comment5.target=void\ shotBullet()
+comment6.params=
+comment6.target=void\ reloadSniper()
+numComments=7

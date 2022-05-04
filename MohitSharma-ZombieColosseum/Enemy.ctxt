@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ This\ is\ the\ class\ for\ the\ enemy\r\n\ \r\n\ Mohit\ Sharma\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=amount
+comment2.target=void\ reduceHealth(int)
+numComments=3

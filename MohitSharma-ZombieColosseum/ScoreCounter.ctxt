@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ScoreCounter
+comment0.text=\r\n\ The\ counter\ for\ the\ score,\ prints\ the\ player\ score\r\n\ \r\n\ Mohit\ Sharma\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

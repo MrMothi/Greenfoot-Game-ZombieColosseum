@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AR
+comment0.text=\r\n\ AR\ for\ assualt\ rifle,\ fast\ firing,\ medium\ piercing\r\n\ Very\ simmilar\ class\ to\ all\ other\ gun\ classes\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ lookMouse()
+comment3.params=
+comment3.target=void\ changeClipAR()
+comment4.params=
+comment4.target=int\ getARRotation()
+comment5.params=
+comment5.target=void\ shotBullet()
+comment6.params=
+comment6.target=void\ reloadAR()
+numComments=7

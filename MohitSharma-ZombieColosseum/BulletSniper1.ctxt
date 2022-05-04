@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BulletSniper1
+comment0.text=\r\n\ Bullet\ for\ the\ sniper,\ fast\ and\ peiercing\ infinitely\ until\ hitting\ a\ wall\ or\ non\ enemy\ object\r\n\ \r\n\ Mohit\ Sharma\r\n\ Jan\ 14th\ 2020\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

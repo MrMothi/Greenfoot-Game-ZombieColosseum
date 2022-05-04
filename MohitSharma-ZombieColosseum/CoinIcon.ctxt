@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CoinIcon
+comment0.text=\r\n\ Just\ the\ icon\ for\ the\ score\r\n\ \r\n\ Mohit\ Sharma\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ CoinIcon\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

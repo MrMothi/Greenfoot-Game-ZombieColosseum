@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=AmmoCrate
+comment0.text=\r\n\ Ammo\ crate\ for\ the\ game,\ gives\ 50\ ammo\ to\ player,\ spawns\ every\ round\ in\ a\ random\ position,\ deletes\ itself\ at\ the\ end\ of\ a\ wave\r\n\ \r\n\ Mohit\ Sharma\r\n\ January\ 19th\ 2020\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

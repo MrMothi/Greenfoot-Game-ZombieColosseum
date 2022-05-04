@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BulletShotgun1
+comment0.text=\r\n\ Bullet\ for\ the\ shotgun,\ fast,\ low\ range,\ high\ damage,\ unlimited\ peircing\r\n\ \r\n\ Mohit\ Sharma\r\n\ January\ 19\ 2020\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2

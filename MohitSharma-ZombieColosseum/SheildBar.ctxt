@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SheildBar
+comment0.text=\r\n\ Sheild\ bars\ for\ the\ player,\ changes\ accordingly\r\n\ \r\n\ Mohit\ Sharma\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+numComments=2
