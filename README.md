@@ -15,7 +15,7 @@ Pixel art was taken from various internet sources.
 - Simple Controls
 
 # How To Run The Game
-
+There are two methods, both require installing the Greenfoot application. After installing you can run the 'ZombieColosseum.gfar' file by opening it with Greenfoot. If this does not work, you would need to install all the files from the Main Game Folder ('MohitSharma-ZombieColosseum') and 'Images' folder. After downloading, follow further instructions given in the 'README.txt' file within the Main Game Folder.
 
 # Screenshots
 
